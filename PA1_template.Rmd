@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Programming Assignment 1
 ============================================
 
@@ -112,3 +113,30 @@ xyplot(mean_steps~interval|weekday,data=resumen,type="l",
 ```
 
 As we can sww in this plot, there's a difference between weekdays and weekend number of steps recorded in our dataset. The weekdays information tends to increase a lot in the firsts five minute intervals, while the weekends activity tends to be close to a mean (appears to be more homogeneus).
+=======
+---
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+---
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
